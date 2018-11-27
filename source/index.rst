@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Final Project's documentation!
-=========================================
+Welcome to our website!
+=======================
 
 .. toctree::
    :maxdepth: 2
@@ -14,5 +14,3 @@ Welcome to Final Project's documentation!
    football/index
    baseball/index
    basketball/index
-
-
