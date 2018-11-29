@@ -1,5 +1,5 @@
-MLB Power Rankings for 2019:
-============================
+2019 MLB Projected Power Rankings:
+==================================
 
 ===========   =======   ====================   ======================
 2018 Record   Ranking   Team                   2019 World Series Odds
