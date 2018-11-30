@@ -21,6 +21,12 @@ The Top Three Favorites
 
 **Boston Red Sox:**
 
+.. image:: boston.png
+
 **Houston Astros:**
 
+.. image:: houston.png
+
 **New York Yankees**
+
+.. image:: newyork.png
