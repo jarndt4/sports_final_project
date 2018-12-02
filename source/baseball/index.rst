@@ -1,10 +1,10 @@
-History of Baseball
-=======================
+The Past, Present, and Future of Baseball
+=========================================
 
 .. toctree::
-   :maxdepth: 2
    :caption: Current Baseball News:
 
-   01world_series/01world_series
-   02power_rankings/02power_rankings
-   03kyler_murray/03kyler_murray
+   01history/01history
+   02world_series/02world_series
+   03power_rankings/03power_rankings
+   04kyler_murray/04kyler_murray
