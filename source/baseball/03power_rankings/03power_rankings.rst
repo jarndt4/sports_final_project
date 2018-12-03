@@ -42,4 +42,4 @@ The Top Three Favorites:
 
    .. image:: newyork.png
 
-   After losing to their archrivals in the World Series, you can expect to see the Yankees back better than ever next year, playing for vengeance with a chip on their shoulder. There's been a lot of talk about possibly signing Bryce Harper in the offseason, which would be a huge bonus to their team, immediately throwing them up into the elite few in the league. If they can accomplish this while keeping the same rhythm as last year, keep your eyes open.
+   After being knocked out of the playoffs by their archrivals last year, you can expect to see the Yankees back and better than ever, playing for vengeance this next season with a chip on their shoulder. There's been a lot of talk about possibly signing Bryce Harper in the offseason, which would be a huge bonus to their team, immediately throwing them up into the elite few in the league. If they can accomplish this while keeping the same rhythm as last year, keep your eyes open.
