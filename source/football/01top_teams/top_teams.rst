@@ -71,8 +71,8 @@ Denver Broncos       6-6-0
 Oakland Raiders      2-10-0
 ==================== =================
 
-Contenders?
-~~~~~~~~~~~
+Contenders
+~~~~~~~~~~
 
 In the AFC East the Patriots are looking to win their division with a nice
 3 game win difference to 2nd place. While in the North division it could be a 
@@ -126,3 +126,14 @@ Seattle Seahawks     7-5-0
 Arizona Cardinals    2-9-0
 San Francisco 49ers  2-10-0
 ==================== =================
+
+Contenders
+~~~~~~~~~~
+
+In the NFC there are more divisions that are close for the 1st seed compared
+to the AFC. The East could be any of the top 3 teams depending on how they 
+perform in th up coming 4 weeks. In the North division the bears could have had
+a nice 3 game lead but after an upset this week against the Giants they now have
+less of a cushion. The Saints in the South division are looking like they will 
+comfortably take the 1st seed with ease. And the in the NFC the Rams will win
+the West 1st seed after this last game on 12/2/18.
