@@ -132,7 +132,7 @@ Contenders
 
 In the NFC there are more divisions that are close for the 1st seed compared
 to the AFC. The East could be any of the top 3 teams depending on how they 
-perform in th up coming 4 weeks. In the North division the bears could have had
+perform in the up coming 4 weeks. In the North division the bears could have had
 a nice 3 game lead but after an upset this week against the Giants they now have
 less of a cushion. The Saints in the South division are looking like they will 
 comfortably take the 1st seed with ease. And the in the NFC the Rams will win
