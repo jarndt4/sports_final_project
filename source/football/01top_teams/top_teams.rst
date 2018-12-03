@@ -4,13 +4,13 @@ Who's dominating their divisions?
 As the season nears the end and the super bowl is in sight, what teams are doing
 the best? First I will explain how the play off system works before looking
 at the current standings of both divisions, after explaining we'll look at the
-current standing in week 12 of the 2018 season.
+current standing in week 13 of the 2018 season.
 
-In order for a National Football team to make it to the Super Bowl the team must
-make it to the playoffs and progress to the grand final (aka. the Super Bowl).
+In order for a National Football team to make it to the *Super Bowl* the team must
+make it to the playoffs and progress to the grand final (aka. the *Super Bowl*).
 
 Each conference gets 6 teams out of the 16 in the conference to play for the 
-chance to compete for the Super Bowl title. Each conference gets 4 seeded teams
+chance to compete for the *Super Bowl* title. Each conference gets 4 seeded teams
 based on each divisions best overall record. Each division also gets 2 wild card
 teams which is 2 teams with the best overall in 2nd place in their division.
 
@@ -25,7 +25,7 @@ This scheme is used in both divisions, after the wild card weekend the 2 winning
 teams in both conferences are put up against the top 2 seeded teams in the 
 conferences in a best of 1. After this weekend of games they advance to the 
 conference championships for a best of one, than the winners of each conference 
-play off in the Super Bowl.
+play off in the *Super Bowl*.
 
 American Football Conference (AFC)
 ----------------------------------

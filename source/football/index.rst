@@ -39,7 +39,7 @@ The NFL is the most popular sport in America, and the televised program is one o
 the most watched on American television. The four contracted television networks 
 that are allowed to broadcast NFL games will pay a combined total of about 4 billion
 dollars a year for the rights. Companies will also pay upwards to $700,000 for a
-30 second advertisement during regular season games. During the SuperBowl
+30 second advertisement during regular season games. During the *Super Bowl*
 advertisements can average about 5 million dollars for a 30 seconds ad time.
 
 
