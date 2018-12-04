@@ -1,17 +1,5 @@
-Soccer Section
-==============
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Articles:
-
-   current_news/current_news
-   important_games/important_games
-   season_update/season_update
-   overview/overview
-
 Overview
---------
+========
 Soccer is widely regarded as the world's most popular sport.
 Originating in England, this sport is watched and played by billions
 of people all over the world. The World Cup Final is watched by
@@ -38,4 +26,3 @@ Number 7     La Liga         Spain     2.2 billion
 Number 8     Serie A         Italy     1.9 billion
 Number 9     Ligue 1         France    1.5 billion
 ========= ================== ========= ============
-
