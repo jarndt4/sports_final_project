@@ -6,12 +6,6 @@ of people all over the world. The World Cup Final is watched by
 an estimated 600 million people, while the annual Champions League
 final is watched by more than 300 million. 
 
-.. figure:: soccer_fans.jpg
-    :width: 50%
-
-    Dubbed the "Yellow Wall," die hard Borussia Dortmund fans in Germany
-    show out for every home game.
-
 Not only is this sport the most popular in terms of number of people 
 involved, but it also brings in one of the top revenues, behind only  
 the football and baseball. In fact, 5 out of the top 10 revenue earning
