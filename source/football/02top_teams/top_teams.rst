@@ -95,8 +95,8 @@ Current standing as of 12/4/18
 NFC East             Record (W-L-T)
 ==================== =================
 Dallas Cowboys       7-5-0
-Washington Redskins  6-5-0
-Philadelphia Eagles  5-6-0
+Washington Redskins  6-6-0
+Philadelphia Eagles  6-6-0
 New York Giants      4-8-0
 ==================== =================
 
