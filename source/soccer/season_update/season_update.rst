@@ -1,2 +1,2 @@
-Season Update
-=============
+Club Season Update
+==================
