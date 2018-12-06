@@ -51,6 +51,8 @@ Game Scores:
 
       * The game ended when Max Muncy hit a *walk-off home run* in the *18th inning*!
 
+         .. image:: muncy.png
+
 * **Game 4:**
 
    * Boston Red Sox: 9
