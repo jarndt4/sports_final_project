@@ -27,9 +27,7 @@ Game Scores:
 
    * Los Angeles Dodgers: 3
 
-   * `Facts`_ about game three:
-
-   .. _Facts: https://www.mlb.com/news/2018-world-series-game-3-amazing-facts/c-299795560
+   * Facts about game three:
 
       * This was one of the best championship baseball games ever played, with a very impressive defensive showcase from both teams.
 
@@ -52,7 +50,7 @@ Game Scores:
       * The game ended when Max Muncy hit a *walk-off home run* in the *18th inning*!
 
          .. image:: muncy.png
-         	:width: 150 px
+         	:width: 125 px
 
 * **Game 4:**
 

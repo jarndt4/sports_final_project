@@ -10,14 +10,14 @@ Baseball and Football:
 ----------------------
 
    .. image:: baseball.png
-      :width: 150 px
+      :width: 125 px
 
 While many people have heard of Murray through his football talents at Oklahoma this year, he is also a very skilled player in baseball. Murray was an All-American baseball player and one of the top prospects coming out of high school for the 2015 Major League Baseball draft, but decided instead to be a two-sport athlete in college.
 
 However, he was recently selected as the number 9 overall pick in the 2018 Major League Baseball draft, but he did decide to play football this year instead, and he has a very interesting decision coming up in which he has several options; he could stay and play another year at Oklahoma, and then play in either the NFL or the MLB, or he could just play in the MLB his next year, his current plan with the Oakland Athletics, the team that drafted him. We'll see what he decides.
 
    .. image:: football.png
-      :width: 150 px
+      :width: 125 px
 
 In high school, Kyler Murray was a five-star recruit across the nation, and one of the top dual threat quarterbacks in the country. He led his team to three straight championships in high school, and never lost a game while starting. He was named National Player of the Year by multiple organizations in 2014. His statistics were crazy, and he was an All-American.
 
