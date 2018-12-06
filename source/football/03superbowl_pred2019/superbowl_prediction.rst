@@ -7,12 +7,14 @@ current records.
 
 .. image:: imgs\\superbowl_logo.jpg
     :width: 25%
+    :align: center
 
 Rams
 ----
 
 .. image:: imgs\\rams.jpg
     :width: 25%
+    :align: right
 
 The Rams have a spot already guaranteed for the playoffs after their win on
 12/2/2018. No other team can currently beat get more wins than what the Rams 
@@ -28,6 +30,7 @@ Saints
 
 .. image:: imgs\\saints.jpg
     :width: 25%
+    :align: right
 
 The Saints should have their spot secured for their division in the up coming 
 weeks, but after the upset they faced against the Cowboys this week they will
@@ -43,6 +46,7 @@ Chiefs
 
 .. image:: imgs\\chiefs.jpg
     :width: 25%
+    :align: right
 
 The Chiefs had to release **Kareem Hunt** which was their star running back after
 video evidence being released of him abusing a female in a hotel. He is predicted
@@ -58,6 +62,7 @@ Patriots
 
 .. image:: imgs\\patriots.png
     :width: 25%
+    :align: right
 
 I mean they are the Patriots. Is anyone surprised?
 
@@ -66,6 +71,7 @@ Chargers
 
 .. image:: imgs\\chargers.png
     :width: 25%
+    :align: right
 
 The Chargers have looked good all year but have seen some struggles. After 
 scraping a win over the Steelers the chargers look serious about making the 

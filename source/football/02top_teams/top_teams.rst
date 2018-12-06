@@ -34,6 +34,7 @@ Current standing as of 12/4/18
 
 .. image:: imgs\\afc_logo.png
     :width: 25%
+    :align: right
 
 ==================== =================
 AFC East             Record (W-L-T)
@@ -90,7 +91,8 @@ Current standing as of 12/4/18
 
 .. image:: imgs\\nfc_logo.png
     :width: 25%
-
+    :align: right
+    
 ==================== =================
 NFC East             Record (W-L-T)
 ==================== =================
