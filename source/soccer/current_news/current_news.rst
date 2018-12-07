@@ -12,8 +12,7 @@ It has been awarded since 1956 and is widely regarded as the most prestigious
 individual award in the world, or the best player of the calendar year.
 Up until 2018, the Ballon d'Or was only offered
 to the best male player in the world. This year, however, it was also 
-given to the best female player. While the results surprised a few around 
-the world, it was still exciting to see who won.
+given to the best female player.
 
 We will start with the women's award. This is the first year that a woman has 
 won the Ballon d'Or, so it was a very historic award to win. The winner of 
@@ -28,7 +27,7 @@ in dramatic fashion. The winner of the men's 2018 Ballon d'Or, or best
 men's soccer player in 2018, is **Luka Modric**. Modric Plays for Croatia's
 national team as well as Real Madrid. Here are the standings:
 
-* Luka Modric (Real Madrid/Croatia)
+* **Luka Modric** (Real Madrid/Croatia)
 * Cristiano Ronaldo (Juventus/Portugal)
 * Antoine Griezmann (Atletico Madrid/France)
 * Kylian Mbappe (Paris St-Germain/France)
