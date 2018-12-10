@@ -35,3 +35,7 @@ Position   Club               Record	Points   Goal Diff.
 5           Arsenal           9-4-2     31        14
 6           Everton           6-5-4     23        4
 ========= ================== ========= ======== ===========
+
+You can see the full, updated table here: `Premier League Table`_.
+
+.. _Premier League Table: https://www.premierleague.com/tables
