@@ -1,5 +1,5 @@
 Basketball Articles
-=================
+===================
 
 .. toctree::
    :maxdepth: 2
