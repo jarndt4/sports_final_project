@@ -27,7 +27,7 @@ The Top Three Favorites:
    .. image:: boston.png
       :align: left
 
-   The Boston Red Sox were the 2018 World Series Champions, and if they can stay healthy and play to their potential again, they could do it back to back. They will be looking to keep almost all of their key parts during the offseason, most of which are in the prime of their careers, as shown by Mookie Betts winning 2018 MLB MVP. They're efficient, consistent, and deep, which can put them on pace to have yet another 100+ win season at the very least, a very impressive feat.
+   The Boston Red Sox were the 2018 *World Series Champions*, and if they can stay healthy and play to their potential again, they could do it back to back. They will be looking to keep almost all of their key parts during the offseason, most of which are in the prime of their careers, as shown by Mookie Betts winning 2018 MLB MVP. They're efficient, consistent, and deep, which can put them on pace to have yet another 100+ win season at the very least, a very impressive feat.
 
 #. **Houston Astros:**
 
