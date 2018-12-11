@@ -7,9 +7,9 @@ Who’s your number 1 for this week? It’s a serious question, because figuring
 The Golden State Warriors superstar Stephen Curry's return, along with back-to-back losses by the Toronto Raptors, put the Warriors in a great position to regain the No.1 spot in the NBA Power Rankings. But the battle for the top spot will be even more interesting when the Raptors visit Warriors on Wednesday night at Oracle Arena.
 
 ========================== =============== ================
-Current Team Rankings	   Current Record  Previous Ranking
+Current Team Rankings      Current Record  Previous Ranking
 ========================== =============== ================
-1.  Golden State Warriors  Record: 18-9	    Pev. 3
+1.  Golden State Warriors  Record: 18-9     Pev. 3
 2.  Toronto Raptors        Record: 21-7     Pev. 1
 3.  Milwaukee Bucks        Record: 17-8     Pev. 2
 4.  Oklahoma City Thunder  Record: 16-8     Pev. 5
